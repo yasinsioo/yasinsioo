@@ -1,4 +1,4 @@
-Hi there! 👋 it's Yasin Alabay 🌱
+// Hi there! 👋 it's Yasin Alabay 🌱
 
 const mySkills = () => {
   return {
