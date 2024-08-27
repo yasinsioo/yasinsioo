@@ -1,5 +1,5 @@
-// Hi there! 👋 it's Yasin Alabay 🌱
-
+* Hi there! 👋 it's  `Yasin Alabay` 🌱
+```
 const mySkills = () => {
   return {
     FULL_STACK: {
@@ -15,3 +15,4 @@ console.log(
     .map(([area, techs]) => `${area.toUpperCase()}: ${techs.join(", ")}`)
     .join(" | ")}`
 );
+```
