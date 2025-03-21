@@ -1,4 +1,7 @@
 * Hi there! 👋 it's  `Yasin Alabay` 🌱
+
+### 🚀 Current Focus:
+
 ```
 const mySkills = () => ({
   FULL_STACK: {
