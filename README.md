@@ -5,7 +5,7 @@ const mySkills = () => ({
   FULL_STACK: {
     frontend: ["React", "Next.js", "React Native"],
     backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
+    database: ["MongoDB", "MySQL", "PostgreSQL"],
   },
   getCurrentFocus() {
     return Object.entries(this.FULL_STACK)
